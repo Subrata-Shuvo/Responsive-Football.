@@ -122,5 +122,49 @@ h1{
     
 }
 
+/* optional part */
+
+.youtube{
+    margin-left: -742px;
+}
+
+.youtube h2{
+    color: crimson;
+    text-align: center;
+}
+
+.Prediction-form form{
+    margin-left: -400px;
+    width: 500px;
+}
+
+.Prediction-form h2{
+    margin-left: -315px;
+    color: crimson;
+
+}
+
+
+/* logo */
+
+.logo img{
+    margin-left: -282px;
+    height: 150px;
+    width: 150px;
+
+}
+
+.logo .awesome{
+    margin-left: -240px;
+    margin-top: -30px;
+    
+
+}
+
+.footer{
+    margin-left: -330px;
+
+}
+
 
 
